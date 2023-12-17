@@ -10,10 +10,10 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    background-color: #900000;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(67, 41, 41, 0.1);
     width: 300px;
 }
 
@@ -32,8 +32,8 @@ input {
 }
 
 button {
-    background-color: #4caf50;
-    color: #fff;
+    background-color: #8cd78e;
+    color: #f0c6c6;
     padding: 10px;
     border: none;
     border-radius: 5px;
