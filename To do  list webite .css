@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #c85252;
     margin: 0;
     padding: 0;
     display: flex;
@@ -11,14 +11,14 @@ body {
   
   .container {
     text-align: center;
-    background-color: #fff;
+    background-color: #742b2b;
     border-radius: 8px;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(162, 215, 55, 0.1);
   }
   
   h1 {
-    color: #333;
+    color: #519454;
   }
   
   .add-task {
@@ -30,7 +30,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #9ebeb9;
   }
   
   .task-actions {

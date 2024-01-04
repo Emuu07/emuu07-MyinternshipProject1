@@ -75,6 +75,4 @@ function toggleComplete(index) {
 function saveTasks() {
   localStorage.setItem('tasks', JSON.stringify(tasks));
 }
-
-// Initial render
 renderTasks();
